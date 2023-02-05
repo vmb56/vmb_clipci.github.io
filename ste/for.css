@@ -1,0 +1,18 @@
+.im{
+  
+    height: 500px;
+    width: 500px;
+}
+body{background-image: repeating-linear-gradient(90deg, rgb(208, 136, 248) 0px, rgb(208, 136, 248) 98px,rgb(237, 183, 253) 98px, rgb(237, 183, 253) 141px,rgb(252, 206, 255) 141px, rgb(252, 206, 255) 238px,rgb(222, 159, 251) 238px, rgb(222, 159, 251) 267px,rgb(178, 89, 244) 267px, rgb(178, 89, 244) 363px,rgb(193, 112, 246) 363px, rgb(193, 112, 246) 479px);
+}
+img{
+    height: 800px;
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 15px;
+
+}
+video{
+    height: 500px;
+    width: 500px;
+}
